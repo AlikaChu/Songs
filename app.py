@@ -3,7 +3,7 @@ import pandas as pd
 import altair as alt
 import matplotlib.pyplot as plt
 import seaborn as sns
-import bar_chart_race as bcr
+# import bar_chart_race as bcr
 
 
 with st.echo(code_location='below'):
